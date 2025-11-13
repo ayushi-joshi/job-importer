@@ -44,4 +44,3 @@ steps and process of the project
 4-store the  data in mongodb database
 5- create the admin using next.js
 6- enput the url and import the data. 
-
