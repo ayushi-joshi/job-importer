@@ -54,4 +54,4 @@ worker.on('failed', (job, err) => {
   console.error('Job failed', job.id, err.message);
 });
 
-module.exports = worker;
+module.exports=worker;
